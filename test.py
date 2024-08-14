@@ -36,6 +36,3 @@ def main_function():
 
     # Print the final total
     print(total_sum)
-
-if __name__ == "__main__":
-    main_function()
